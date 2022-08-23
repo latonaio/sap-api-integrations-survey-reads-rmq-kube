@@ -1,0 +1,24 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-survey-reads/SAP_API_Caller/caller.go#L51",
+	"function": "sap-api-integrations-survey-reads/SAP_API_Caller.(*SAPAPICaller).SurveyCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E04DCEB1ED2BFF75DD91A32A7FF",
+			"ETag": "2019-04-24T17:53:13+09:00",
+			"CategoryCode": "2",
+			"CategoryCodeText": "Products",
+			"LifeCycleStatusCode": "3",
+			"LifeCycleStatusCodeText": "Obsolete",
+			"ValidFromDate": "2013-08-01T09:00:00+09:00",
+			"ValidToDate": "",
+			"ID": "4",
+			"Version": "1",
+			"Name": "Product Audit",
+			"languageCode": "EN",
+			"languageCodeText": "English",
+			"EntityLastChangedOn": "2019-04-24T17:53:13+09:00"
+		}
+	],
+	"time": "2022-08-09T14:11:35+09:00"
+}
